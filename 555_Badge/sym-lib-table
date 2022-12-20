@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "555Badge_Library")(type "KiCad")(uri "C:/Users/glenn/OneDrive/Documents/GitHub/555Badge.EDA/Symbols/555Badge_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "dk_Battery-Holders-Clips-Contacts")(type "Legacy")(uri "C:/Users/glenn/OneDrive/Documents/GitHub/555Badge.EDA/Libraries/digikey-kicad-library-master/digikey-symbols/dk_Battery-Holders-Clips-Contacts.lib")(options "")(descr ""))
+  (lib (name "dk_Slide-Switches")(type "Legacy")(uri "C:/Users/glenn/OneDrive/Documents/GitHub/555Badge.EDA/Libraries/digikey-kicad-library-master/digikey-symbols/dk_Slide-Switches.lib")(options "")(descr ""))
 )
