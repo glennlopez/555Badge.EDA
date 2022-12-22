@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "555_Badge")(type "KiCad")(uri "C:/Users/glenn/OneDrive/Documents/GitHub/555Badge.EDA/Footprints/555_Badge.pretty")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "C:/Users/glenn/OneDrive/Documents/GitHub/555Badge.EDA/Libraries/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
 )
