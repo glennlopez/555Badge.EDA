@@ -5,6 +5,13 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "555 Badge")
+    (rev "V1")
+    (comment 2 "License: CC by 4.0")
+    (comment 3 "Author: Glenn Lopez")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -312,7 +319,7 @@
 
   (footprint "digikey-footprints:Switch_Slide_11.6x4mm_EG1218" (layer "F.Cu")
     (tedit 5A1EC915) (tstamp 2d2355b4-bc36-4324-880d-3b8e02abea3d)
-    (at 120.6076 93.43)
+    (at 117 93.4)
     (descr "http://spec_sheets.e-switch.com/specs/P040040.pdf")
     (property "Category" "Switches")
     (property "DK_Datasheet_Link" "http://spec_sheets.e-switch.com/specs/P040040.pdf")
